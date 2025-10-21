@@ -1,6 +1,6 @@
 # Backend - MichaelProyectobackend300h
 
-Base técnica para el proyecto del diplomado: **Node.js + Express + MongoDB** con modelo `Usuario` y endpoints de autenticación.
+Buenos, aqui esta la base técnica para el proyecto del diplomado: **Node.js + Express + MongoDB** con modelo `Usuario` y endpoints de autenticación.
 
 ## Requisitos
 - Node.js 18+
@@ -40,8 +40,3 @@ src/
   middlewares/auth.middleware.js
   utils/ApiResponse.js
 ```
-
-## Buenas prácticas
-- Commits pequeños y descriptivos
-- `.env` nunca se sube al repo
-- Ramas: `desarrollo` como base; features desde ahí y PRs hacia `desarrollo`
